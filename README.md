@@ -22,4 +22,8 @@ Durante o desenvolvimento deste projeto, pratiquei e aprimorei os seguintes conc
 - Componentização e reutilização de código.
 - Hooks do React (useState, useEffect, etc.).
 - Tipagem estática com **TypeScript**.
-- Gerenciamento de estado local e global.
+
+## Contato
+
+Caso tenha dúvidas ou queira entrar em contato, envie um e-mail para:  
+[ricardobassanesi@gmail.com](mailto:ricardobassanesi@gmail.com)
